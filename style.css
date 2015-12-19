@@ -4,7 +4,7 @@ font-family: 'Slabo 27px', serif;
 */
 
 body{
-	background-color: #9B8F89;
+	background-color: #005E6E;
 }
 
 .calculator{
@@ -32,6 +32,11 @@ body{
 	height: 35px;
 	background-color: #C7C7B0;
 	border-radius: 5%;
+	color: black;
+	font-size: 23px;
+	text-align: right;
+	vertical-align: middle;
+	line-height: 35px;
 }
 
 .button{
@@ -49,6 +54,7 @@ body{
 	text-align: center;
 	vertical-align: middle;
 	line-height: 30px;
+	cursor: pointer;
 }
 
 .buttonBottom{
@@ -67,4 +73,5 @@ body{
 	text-align: center;
 	vertical-align: middle;
 	line-height: 30px;
+	cursor: pointer;
 }
