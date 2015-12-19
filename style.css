@@ -1,0 +1,70 @@
+/*
+font-family: 'Lobster', cursive;
+font-family: 'Slabo 27px', serif;
+*/
+
+body{
+	background-color: #9B8F89;
+}
+
+.calculator{
+	background-color: #F3EEE7;
+	height: 410px;
+	width:300px;
+	margin-top: 50px;
+	box-shadow: black 10px 10px 10px ;
+	border: 5px solid black;
+	border-top-left-radius:2em;
+	border-top-right-radius:2em;
+}
+
+.calculator h2{
+	font-family: 'Lobster', cursive;
+	margin-top: 2px;
+}
+
+.calculator h4{
+	font-family: 'Slabo 27px', serif;
+	margin-top: -5px;
+}
+
+.screen{
+	height: 35px;
+	background-color: #C7C7B0;
+	border-radius: 5%;
+}
+
+.button{
+	height: 30px;
+	background-color: #3B3645;
+	box-shadow: black 3px 3px 3px;
+	border-radius: 20%;
+	margin: 5px;
+	margin-left: 17px;
+	margin-top: 20px;
+	border: 1px solid black;
+	font-family: font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+}
+
+.buttonBottom{
+	height: 30px;
+	width:49px;
+	background-color: #3B3645;
+	box-shadow: black 3px 3px 3px;
+	border-radius: 20%;
+	margin: 5px;
+	margin-left: 17px;
+	margin-top: 20px;
+	border: 1px solid black;
+	font-family: font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+}
